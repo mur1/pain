@@ -1,14 +1,14 @@
-[
-  {
-    "userId": "8938209220", 
-    "stomps": ["Kurohitsugi"]
-  },
-  {
-    "userId": "19998490",
-    "stomps": ["Thanos"]
-  },
-  {
-    "userId": "1769861016",
-    "stomps": ["Thanos"]
-  }
-]
+{
+  "9168096710": [
+    "KO"
+  ],
+  "19998490": [
+    "Thanos"
+  ],
+  "1769861016": [
+    "Thanos"
+  ],
+  "8938209220": [
+    "Kurohitsugi"
+  ]
+}
