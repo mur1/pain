@@ -1,26 +1,14 @@
 [
   {
-    "userId": "1",
-    "stomps": [
-      "Tonka"
-    ]
-  },
-  {
-    "userId": "8938209220",
-    "stomps": [
-      "Kurohitsugi"
-    ]
+    "userId": "8938209220", 
+    "stomps": ["Kurohitsugi"]
   },
   {
     "userId": "19998490",
-    "stomps": [
-      "Thanos"
-    ]
+    "stomps": ["Thanos"]
   },
   {
     "userId": "1769861016",
-    "stomps": [
-      "Thanos"
-    ]
+    "stomps": ["Thanos"]
   }
 ]
