@@ -1,112 +1,24 @@
 {
-  "9168096710": [
-    "KO"
-  ],
-  "19998490": [
-    "Thanos"
-  ],
-  "8938209220": [
-    "Kurohitsugi"
-  ],
-  "5085094306": [
-    "Tonka",
-    "Rune"
-  ],
-  "10212385": [
-    "Kirumi"
-  ],
-  "12311642": [
-    "Thanos"
-  ],
-  "1445128153": [
-    "Skyfall",
-    "Kirumi"
-  ],
-  "381119230": [
-    "Plushy"
-  ],
-  "168924575": [
-    "Soul Taker"
-  ],
-  "3142174173": [
-    "Thanos",
-    "Rune",
-    "Soul Taker",
-    "Yggdrasil",
-    "Kurohitsugi",
-    "Amatsukami",
-    "Skyfall",
-    "Enuma Elish",
-    "Atomic",
-    "Tonka",
-    "Susanoo",
-    "Sleepy",
-    "Deletion",
-    "Charm",
-    "Ice Capsule",
-    "Ghost",
-    "Lightning",
-    "Rings",
-    "Money",
-    "Mario",
-    "KO",
-    "Kizzaro",
-    "UFO",
-    "Heaven",
-    "Cupid",
-    "D4C",
-    "Starlight",
-    "Lotus",
-    "Melo",
-    "Plushy",
-    "Kirumi",
-    "Spirit",
-    "Despair Cage",
-    "Gravedigger"
-  ],
-  "1760853396": [
-    "Thanos"
-  ],
-  "3401766349": [
-    "Melo",
-    "Plushy",
-    "Sleepy"
-  ],
-  "8552156930": [
-    "Heaven",
-    "Gravedigger"
-  ],
-  "3892789458": [
-    "Melo",
-    "Plushy"
-  ],
-  "8733197609": [
-    "Heaven",
-    "Melo"
-  ],
-  "4794869075": [
-    "Skyfall",
-    "Amatsukami",
-    "Atomic"
-  ],
-  "1280057555": [
-    "KO"
-  ],
-  "3395038919": [
-    "Susanoo",
-    "Atomic"
-  ],
-  "3974871652": [
-    "Plushy"
-  ],
-  "7455461559": [
-    "Spirit",
-    "Despair Cage"
-  ],
-  "1342471903": [
-    "Kurohitsugi"
-  ],
-  "5868276140": [
-    "Plushy"
-  ]
+  "9168096710": ["KO"],
+  "19998490": ["Thanos"],
+  "8938209220": ["Kurohitsugi"],
+  "5085094306": ["Tonka", "Rune"],
+  "10212385": ["Kirumi"],
+  "12311642": ["Thanos"],
+  "1445128153": ["Skyfall", "Kirumi"],
+  "381119230": ["Plushy"],
+  "168924575": ["Soul Taker"],
+  "3142174173": ["Thanos", "Rune", "Soul Taker", "Yggdrasil", "Kurohitsugi", "Amatsukami", "Skyfall", "Enuma Elish", "Atomic", "Tonka", "Susanoo", "Sleepy", "Deletion", "Charm", "Ice Capsule", "Ghost", "Lightning", "Rings", "Money", "Mario", "KO", "Kizzaro", "UFO", "Heaven", "Cupid", "D4C", "Starlight", "Lotus", "Melo", "Plushy", "Kirumi", "Spirit", "Despair Cage", "Gravedigger"],
+  "1760853396": ["Thanos"],
+  "3401766349": ["Melo", "Plushy", "Sleepy"],
+  "8552156930": ["Heaven", "Gravedigger"],
+  "3892789458": ["Melo", "Plushy"],
+  "8733197609": ["Heaven", "Melo"],
+  "4794869075": ["Skyfall", "Amatsukami", "Atomic"],
+  "1280057555": ["KO"],
+  "3395038919": ["Susanoo", "Atomic"],
+  "3974871652": ["Plushy"],
+  "7455461559": ["Spirit", "Despair Cage"],
+  "1342471903": ["Kurohitsugi"],
+  "5868276140": ["Plushy"]
 }
