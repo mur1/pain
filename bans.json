@@ -1,37 +1,132 @@
 {
   "banned": [
-    { "id": 458174124, "reason": "Blacklist" },
-    { "id": 1264921751, "reason": "Blacklist" },
-    { "id": 795816353, "reason": "Blacklist" },
-    { "id": 4732408217, "reason": "Blacklist" },
-    { "id": 390170218, "reason": "Blacklist" },
-    { "id": 2440492953, "reason": "Blacklist" },
-    { "id": 2285956271, "reason": "Deu talk pra 01" },
-    { "id": 2039805218, "reason": "farmado" },
-    { "id": 7762313185, "reason": "Roblox" },
-    { "id": 10882654318, "reason": "buy unban" },
-    { "id": 362038812, "reason": "buy unban" },
-    { "id": 2600023301, "reason": "Blacklisted - lia" },
-    { "id": 1811168281, "reason": "Deu talk pra 01" },
-    { "id": 5832143641, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 11050926882, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 11047261183, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 10980124600, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 1007382, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 7795569011, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 10868385950, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 8193037655, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 151922069, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 10761534350, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 7973884340, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 3839992428, "reason": "sabia que eu nao gosto do lil?" },
-    { "id": 4813378942, "reason": "chora na dm do muri" },
-    { "id": 3558520129, "reason": "Blacklist" },
-    { "id": 746707207, "reason": "Blacklist" },
-    { "id": 4628217217, "reason": "Blacklist" },
-    { "id": 683216470, "reason": "Trigger" },
-    { "id": 312378020, "reason": "kkkk" },
-    { "id": 8128266458, "reason": "AWI" },
-    { "id": 7227092156, "reason": "kkkk" }
+    {
+      "id": 458174124,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 1264921751,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 795816353,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 4732408217,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 390170218,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 2440492953,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 2285956271,
+      "reason": "Deu talk pra 01"
+    },
+    {
+      "id": 2039805218,
+      "reason": "farmado"
+    },
+    {
+      "id": 7762313185,
+      "reason": "Roblox"
+    },
+    {
+      "id": 10882654318,
+      "reason": "buy unban"
+    },
+    {
+      "id": 362038812,
+      "reason": "buy unban"
+    },
+    {
+      "id": 2600023301,
+      "reason": "Blacklisted - lia"
+    },
+    {
+      "id": 1811168281,
+      "reason": "Deu talk pra 01"
+    },
+    {
+      "id": 5832143641,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 11050926882,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 11047261183,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 10980124600,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 1007382,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 7795569011,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 10868385950,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 8193037655,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 151922069,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 10761534350,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 7973884340,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 3839992428,
+      "reason": "sabia que eu nao gosto do lil?"
+    },
+    {
+      "id": 4813378942,
+      "reason": "chora na dm do muri"
+    },
+    {
+      "id": 3558520129,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 746707207,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 4628217217,
+      "reason": "Blacklist"
+    },
+    {
+      "id": 312378020,
+      "reason": "kkkk"
+    },
+    {
+      "id": 8128266458,
+      "reason": "AWI"
+    },
+    {
+      "id": 7227092156,
+      "reason": "kkkk"
+    }
   ]
 }
